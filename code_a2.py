@@ -132,4 +132,4 @@ data = [
 
 print(len(data))
 
-#output: 43
+# output: 43
